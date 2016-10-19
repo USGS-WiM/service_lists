@@ -1,6 +1,15 @@
  <feed xmlns="http://www.w3.org/2005/Atom"  xmlns:gos="http://www.geodata.gov/gos_atom">
  	<title>WIM Map Services List</title>
 	<updated>2016-10-19</updated>
+  <!-- sample entry
+   <entry>
+    <id>{unique_id}</id>
+    <title>{title}</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>{serviceURL}</serviceUrl>
+    <emailAddress>@usgs.gov</emailAddress>
+   </entry>
+         -->
 	<!-- A -->
 	<!-- AIR_NDGA -->
   <entry>
@@ -346,88 +355,346 @@
    <!-- G -->
    <!-- GLCWRA -->
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>/GLCWRA/CRSRA_hydroCondition</id>
+    <title>/GLCWRA/CRSRA_hydroCondition</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_hydroCondition/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/CRSRA_reference</id>
+    <title>GLCWRA/CRSRA_reference</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_reference/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/CRSRA_restorationModel</id>
+    <title>GLCWRA/CRSRA_restorationModel</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_restorationModel/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/SBRA_hydroCondition</id>
+    <title>GLCWRA/SBRA_hydroCondition</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_hydroCondition/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/SBRA_reference</id>
+    <title>GLCWRA/SBRA_reference</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_reference/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/SBRA_restorationModel</id>
+    <title>GLCWRA/SBRA_restorationModel</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_restorationModel/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/WLERA_hydroCondition</id>
+    <title>GLCWRA/WLERA_hydroCondition</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_hydroCondition/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/WLERA_reference</id>
+    <title>GLCWRA/WLERA_reference</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_reference/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+   	<id>GLCWRA/WLERA_restorationModel</id>
+    <title>GLCWRA/WLERA_restorationModel</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_restorationModel/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <!-- GLRIEOF -->
+    <entry>
+   	<id>GLRIEOF/GLRIEOFLandUseLandCover</id>
+    <title>GLRIEOF/GLRIEOFLandUseLandCover</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLRIEOF/GLRIEOFLandUseLandCover/MapServer</serviceUrl>
+    <emailAddress>jvelkoverh@usgs.gov</emailAddress>
+   </entry>
+   <!-- H -->
+   <!-- I -->
+   <!-- IowaStreamEst -->
+    <entry>
+   	<id>IowaStreamEst/FDCTM</id>
+    <title>IowaStreamEst/FDCTM</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/IowaStreamEst/FDCTM/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+   	<id>IowaStreamEst/FlowAnywhere</id>
+    <title>IowaStreamEst/FlowAnywhere</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/IowaStreamEst/FlowAnywhere/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+    <id>IowaStreamEst/PRMS</id>
+    <title>IowaStreamEst/PRMS</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/IowaStreamEst/PRMS/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
+   </entry>
+   <!-- Irene-->
+    <entry>
+    <id>Irene/Irene_path</id>
+    <title>Irene/Irene_path</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Irene/Irene_path/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+    <id>Irene/USGS_hurricane_irene_data/</id>
+    <title>Irene/USGS_hurricane_irene_data/</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Irene/USGS_hurricane_irene_data/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <!-- Isaac -->
+    <entry>
+    <id>Issac/isaac_nwis_sites</id>
+    <title>Issac/isaac_nwis_sites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Issac/isaac_nwis_sites/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>{unique_id}</id>
-    <title>{title}</title>
+    <id>Issac/IssacTrack</id>
+    <title>Issac/IssacTrack</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>{serviceURL}</serviceUrl>
-    <emailAddress>@usgs.gov</emailAddress>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Issac/IssacTrack/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
-
+    <entry>
+    <id>Issac/USGS_hurricane_isaac_data</id>
+    <title>Issac/USGS_hurricane_isaac_data</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Issac/USGS_hurricane_isaac_data/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <!-- J -->
+   <!-- K -->
+   <!-- L -->
+   <!-- M -->
+   <!-- MercuryMapper -->
+    <entry>
+    <id>MercuryMapper/nps_mapper_new_data</id>
+    <title>MercuryMapper/nps_mapper_new_data</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/MercuryMapper/nps_mapper_new_data/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <!-- Miss2015 -->
+    <entry>
+    <id>Miss2015/sitesOfInterest</id>
+    <title>Miss2015/sitesOfInterest</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Miss2015/sitesOfInterest/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <!-- N -->
+   <!-- NAWQA -->
+    <entry>
+    <id>NAWQA/DecadalMap</id>
+    <title>NAWQA/DecadalMap</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NAWQA/DecadalMap/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>NAWQA/tablesTest</id>
+    <title>NAWQA/tablesTest</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NAWQA/tablesTest/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>NAWQA/trendSites</id>
+    <title>NAWQA/trendSites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NAWQA/trendSites/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <!-- NJMapper -->
+    <entry>
+    <id>/NJMapper/reservoirs_downstream_gages</id>
+    <title>/NJMapper/reservoirs_downstream_gages</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NJMapper/reservoirs_downstream_gages/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <!-- Noreast -->
+    <entry>
+    <id>Noreast/StreamTempSites</id>
+    <title>Noreast/StreamTempSites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Noreast/StreamTempSites/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <!-- NSS -->
+    <entry>
+    <id>NSS/nssRegions_Test</id>
+    <title>NSS/nssRegions_Test</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NSS/nssRegions_Test/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
+   </entry>
+   <!-- O -->
+   <!-- P -->
+   <!-- Q -->
+   <!-- R -->
+   <!-- Regulation -->
+    <entry>
+    <id>Regulation/CORegulationSites</id>
+    <title>Regulation/CORegulationSites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Regulation/CORegulationSites/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>Regulation/MTRegulationSites</id>
+    <title>Regulation/MTRegulationSites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Regulation/MTRegulationSites/MapServer</serviceUrl>
+    <emailAddress>jknewson@usgs.gov</emailAddress>
+   </entry>
+   <!-- S -->
+   <!-- SIGL -->
+    <entry>
+    <id>SIGL/SIGLMapper</id>
+    <title>SIGL/SIGLMapper</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SIGL/SIGLMapper/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+   <!-- Sparrow -->
+    <entry>
+    <id>SparrowGreatLakes</id>
+    <title>SparrowGreatLakes</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowGreatLakes/SparrowGreatLakes/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>SparrowMississippi</id>
+    <title>SparrowMississippi</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowMississippi/SparrowMississippi/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>SparrowMRB3</id>
+    <title>SparrowMRB3</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowMRB3/SparrowMRB3/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>SparrowRA</id>
+    <title>SparrowRA</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowRA/SparrowRA/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>SparrowTennessee/SparrowTennesseeDev</id>
+    <title>SparrowTennessee/SparrowTennesseeDev</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowTennessee/SparrowTennesseeDev/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+    <entry>
+    <id>SPARROWTEST/SparrowRA</id>
+    <title>SPARROWTEST/SparrowRA</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SPARROWTEST/SparrowRA/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>SparrowYellowstone</id>
+    <title>SparrowYellowstone</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowYellowstone/SparrowYellowstone/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+   <!-- StreamStatsFuture -->
+   <entry>
+    <id>StreamStatsFuture/floodfreq_climate</id>
+    <title>StreamStatsFuture/floodfreq_climate</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/StreamStatsFuture/floodfreq_climate/MapServer</serviceUrl>
+    <emailAddress>marsmith@usgs.gov</emailAddress>
+   </entry>
+   <!-- SWI -->
+   <entry>
+    <id>SWI/SWI_MN</id>
+    <title>SWI/SWI_MN</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWI/SWI_MN/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>SWI/SWI_Status</id>
+    <title>SWI/SWI_Status</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWI/SWI_Status/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
+   <!-- T -->
+   <!-- U -->
+   <!-- V -->
+   <!-- W -->
+   <!-- X -->
+   <!-- Y -->
+   <!-- Z -->
+   <!-- ROOT -->
+   <entry>
+    <id>NetworkBoundaries</id>
+    <title>NetworkBoundaries</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NetworkBoundaries/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>Peak_Locations</id>
+    <title>Peak_Locations</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/Peak_Locations/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>sandy_nwis_sites</id>
+    <title>sandy_nwis_sites</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/sandy_nwis_sites/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>sandy_storm_surge</id>
+    <title>sandy_storm_surge</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/sandy_storm_surge/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>USGS_hurricane_isaac_data</id>
+    <title>USGS_hurricane_isaac_data</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/USGS_hurricane_isaac_data/MapServer</serviceUrl>
+    <emailAddress>bdraper@usgs.gov</emailAddress>
+   </entry>
 </feed>
