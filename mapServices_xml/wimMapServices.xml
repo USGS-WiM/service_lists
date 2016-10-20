@@ -304,7 +304,7 @@
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
-   	<id>{FishVis/scenarios_small_scale</id>
+   	<id>FishVis/scenarios_small_scale</id>
     <title>FishVis/scenarios_small_scale</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/FishVis/scenarios_small_scale/MapServer</serviceUrl>
@@ -547,10 +547,10 @@
    </entry>
    <!-- NSS -->
     <entry>
-    <id>NSS/nssRegions_Test</id>
-    <title>NSS/nssRegions_Test</title>
+    <id>NSS/regions</id>
+    <title>NSS/regions</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NSS/nssRegions_Test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/NSS/regions/MapServer</serviceUrl>
     <emailAddress>jknewson@usgs.gov</emailAddress>
    </entry>
    <!-- O -->
