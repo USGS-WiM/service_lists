@@ -88,7 +88,7 @@
     <id>FIMMapper/breachMulti</id>
     <title>FIMMapper/breachMulti</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/FIMMapper/breachMulti/MapServer}</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/FIMMapper/breachMulti/MapServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
@@ -328,7 +328,7 @@
    	<id>FishVis/stream_temperature</id>
     <title>FishVis/stream_temperature</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/FishVis/stream_temperature/MapServer}</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/FishVis/stream_temperature/MapServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
     <entry>
@@ -530,7 +530,7 @@
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <!-- NJMapper -->
-    <entry>
+   <entry>
     <id>/NJMapper/reservoirs_downstream_gages</id>
     <title>/NJMapper/reservoirs_downstream_gages</title>
     <serviceType>agsmapserver</serviceType>
