@@ -641,339 +641,339 @@
    </entry>
    <!-- StreamStats State map services-->
    <entry>
-    <id>ak_ss</id>
-    <title>ak_ss</title>
+    <id>StreamStats/ak_ss</id>
+    <title>StreamStats/ak_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ak_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>al_ss</id>
-    <title>al_ss</title>
+    <id>StreamStats/al_ss</id>
+    <title>StreamStats/al_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/al_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ar_ss</id>
-    <title>ar_ss</title>
+    <id>StreamStats/ar_ss</id>
+    <title>StreamStats/ar_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ar_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>az_ss</id>
-    <title>az_ss</title>
+    <id>StreamStats/az_ss</id>
+    <title>StreamStats/az_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/az_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ca_ss</id>
-    <title>ca_ss</title>
+    <id>StreamStats/ca_ss</id>
+    <title>StreamStats/ca_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ca_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>co_ss</id>
-    <title>co_ss</title>
+    <id>StreamStats/co_ss</id>
+    <title>StreamStats/co_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/co_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>crb_ss</id>
-    <title>crb_ss</title>
+    <id>StreamStats/crb_ss</id>
+    <title>StreamStats/crb_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/crb_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ct_ss</id>
-    <title>ct_ss</title>
+    <id>StreamStats/ct_ss</id>
+    <title>StreamStats/ct_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ct_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>de_ss</id>
-    <title>de_ss</title>
+    <id>StreamStats/de_ss</id>
+    <title>StreamStats/de_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/de_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>drb_ss</id>
-    <title>drb_ss</title>
+    <id>StreamStats/drb_ss</id>
+    <title>StreamStats/drb_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/drb_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>drb_strgrid</id>
-    <title>drb_strgrid</title>
+    <id>StreamStats/drb_strgrid</id>
+    <title>StreamStats/drb_strgrid</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/drb_strgrid/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ga_ss</id>
-    <title>ga_ss</title>
+    <id>StreamStats/ga_ss</id>
+    <title>StreamStats/ga_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ga_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>hi_ss</id>
-    <title>hi_ss</title>
+    <id>StreamStats/hi_ss</id>
+    <title>StreamStats/hi_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/hi_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ia_ss</id>
-    <title>ia_ss</title>
+    <id>StreamStats/ia_ss</id>
+    <title>StreamStats/ia_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ia_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>id_ss</id>
-    <title>id_ss</title>
+    <id>StreamStats/id_ss</id>
+    <title>StreamStats/id_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/id_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>il_ss</id>
-    <title>il_ss</title>
+    <id>StreamStats/il_ss</id>
+    <title>StreamStats/il_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/il_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>in_ss</id>
-    <title>in_ss</title>
+    <id>StreamStats/in_ss</id>
+    <title>StreamStats/in_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/in_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ky_ss</id>
-    <title>ky_ss</title>
+    <id>StreamStats/ky_ss</id>
+    <title>StreamStats/ky_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ky_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ma_ss</id>
-    <title>ma_ss</title>
+    <id>StreamStats/ma_ss</id>
+    <title>StreamStats/ma_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ma_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>md_ss</id>
-    <title>md_ss</title>
+    <id>StreamStats/md_ss</id>
+    <title>StreamStats/md_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/md_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>me_ss</id>
-    <title>me_ss</title>
+    <id>StreamStats/me_ss</id>
+    <title>StreamStats/me_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/me_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>mn_ss</id>
-    <title>mn_ss</title>
+    <id>StreamStats/mn_ss</id>
+    <title>StreamStats/mn_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/mn_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ms_ss</id>
-    <title>ms_ss</title>
+    <id>StreamStats/ms_ss</id>
+    <title>StreamStats/ms_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ms_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>mt_ss</id>
-    <title>mt_ss</title>
+    <id>StreamStats/mt_ss</id>
+    <title>StreamStats/mt_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/mt_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>nc_ss</id>
-    <title>nc_ss</title>
+    <id>StreamStats/nc_ss</id>
+    <title>StreamStats/nc_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/nc_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>nd_ss</id>
-    <title>nd_ss</title>
+    <id>StreamStats/nd_ss</id>
+    <title>StreamStats/nd_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/nd_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>nh_ss</id>
-    <title>nh_ss</title>
+    <id>StreamStats/nh_ss</id>
+    <title>StreamStats/nh_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/nh_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>nj_ss</id>
-    <title>nj_ss</title>
+    <id>StreamStats/nj_ss</id>
+    <title>StreamStats/nj_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/nj_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>nm_ss</id>
-    <title>nm_ss</title>
+    <id>StreamStats/nm_ss</id>
+    <title>StreamStats/nm_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/nm_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ny_ss</id>
-    <title>ny_ss</title>
+    <id>StreamStats/ny_ss</id>
+    <title>StreamStats/ny_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ny_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>oh_ss</id>
-    <title>oh_ss</title>
+    <id>StreamStats/oh_ss</id>
+    <title>StreamStats/oh_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/oh_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ok_ss</id>
-    <title>ok_ss</title>
+    <id>StreamStats/ok_ss</id>
+    <title>StreamStats/ok_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ok_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>or_ss</id>
-    <title>or_ss</title>
+    <id>StreamStats/or_ss</id>
+    <title>StreamStats/or_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/or_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>pa_ss</id>
-    <title>pa_ss</title>
+    <id>StreamStats/pa_ss</id>
+    <title>StreamStats/pa_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/pa_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ri_ss</id>
-    <title>ri_ss</title>
+    <id>StreamStats/ri_ss</id>
+    <title>StreamStats/ri_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ri_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>rrb_ss</id>
-    <title>rrb_ss</title>
+    <id>StreamStats/rrb_ss</id>
+    <title>StreamStats/rrb_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/rrb_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>sc_ss</id>
-    <title>sc_ss</title>
+    <id>StreamStats/sc_ss</id>
+    <title>StreamStats/sc_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/sc_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>sd_ss</id>
-    <title>sd_ss</title>
+    <id>StreamStats/sd_ss</id>
+    <title>StreamStats/sd_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/sd_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>tn_ss</id>
-    <title>tn_ss</title>
+    <id>StreamStats/tn_ss</id>
+    <title>StreamStats/tn_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/tn_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ut_ss</id>
-    <title>ut_ss</title>
+    <id>StreamStats/ut_ss</id>
+    <title>StreamStats/ut_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ut_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>va_ss</id>
-    <title>va_ss</title>
+    <id>StreamStats/va_ss</id>
+    <title>StreamStats/va_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/va_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>vt_ss</id>
-    <title>vt_ss</title>
+    <id>StreamStats/vt_ss</id>
+    <title>StreamStats/vt_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/vt_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>wa_ss</id>
-    <title>wa_ss</title>
+    <id>StreamStats/wa_ss</id>
+    <title>StreamStats/wa_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/wa_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>wi_ss</id>
-    <title>wi_ss</title>
+    <id>StreamStats/wi_ss</id>
+    <title>StreamStats/wi_ss</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/wi_ss/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
      <!-- StreamStats Study Areas-->
    <entry>
-    <id>ss_studyAreas_dev</id>
-    <title>ss_studyAreas_dev</title>
+    <id>StreamStats/ss_studyAreas_dev</id>
+    <title>StreamStats/ss_studyAreas_dev</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ss_studyAreas_dev/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>ss_studyAreas_prod</id>
-    <title>ss_studyAreas_prod</title>
+    <id>StreamStats/ss_studyAreas_prod</id>
+    <title>StreamStats/ss_studyAreas_prod</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/ss_studyAreas_prod/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <!-- StreamStats Regulation-->
    <entry>
-    <id>Regulation/CORegulationSites</id>
-    <title>Regulation/CORegulationSites</title>
+    <id>StreamStats/Regulation/CORegulationSites</id>
+    <title>StreamStats/Regulation/CORegulationSites</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/Regulation/CORegulationSites/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
    </entry>
    <entry>
-    <id>Regulation/MTRegulationSites</id>
-    <title>Regulation/MTRegulationSites</title>
+    <id>StreamStats/Regulation/MTRegulationSites</id>
+    <title>StreamStats/Regulation/MTRegulationSites</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://streamstats09.cr.usgs.gov/arcgis/rest/services/Regulation/MTRegulationSites/MapServer</serviceUrl>
     <emailAddress>marsmith@usgs.gov</emailAddress>
