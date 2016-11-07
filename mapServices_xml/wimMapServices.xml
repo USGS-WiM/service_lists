@@ -363,66 +363,24 @@
    <!-- G -->
    <!-- GLCWRA -->
     <entry>
-   	<id>/GLCWRA/CRSRA_hydroCondition</id>
-    <title>/GLCWRA/CRSRA_hydroCondition</title>
+   	<id>/GLCWRA/CRSRA/</id>
+    <title>/GLCWRA/CRSRA/</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_hydroCondition/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA/MapServer</serviceUrl>
     <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>GLCWRA/CRSRA_reference</id>
-    <title>GLCWRA/CRSRA_reference</title>
+   	<id>GLCWRA/SBRA</id>
+    <title>GLCWRA/SBRA</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_reference/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA/MapServer</serviceUrl>
     <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
     <entry>
-   	<id>GLCWRA/CRSRA_restorationModel</id>
-    <title>GLCWRA/CRSRA_restorationModel</title>
+   	<id>GLCWRA/WLERA</id>
+    <title>GLCWRA/WLERA</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/CRSRA_restorationModel/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/SBRA_hydroCondition</id>
-    <title>GLCWRA/SBRA_hydroCondition</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_hydroCondition/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/SBRA_reference</id>
-    <title>GLCWRA/SBRA_reference</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_reference/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/SBRA_restorationModel</id>
-    <title>GLCWRA/SBRA_restorationModel</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/SBRA_restorationModel/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/WLERA_hydroCondition</id>
-    <title>GLCWRA/WLERA_hydroCondition</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_hydroCondition/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/WLERA_reference</id>
-    <title>GLCWRA/WLERA_reference</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_reference/MapServer</serviceUrl>
-    <emailAddress>bdraper@usgs.gov</emailAddress>
-   </entry>
-    <entry>
-   	<id>GLCWRA/WLERA_restorationModel</id>
-    <title>GLCWRA/WLERA_restorationModel</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA_restorationModel/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/GLCWRA/WLERA/MapServer</serviceUrl>
     <emailAddress>bdraper@usgs.gov</emailAddress>
    </entry>
    <!-- GLRIEOF -->
