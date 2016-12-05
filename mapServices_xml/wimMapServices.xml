@@ -11,13 +11,13 @@
    </entry>
          -->
    <!-- following entry is a fail test -nonexistent service URL included for testing -->
-   <entry>
+  <!--  <entry>
     <id>TEST/BadURL</id>
     <title>TEST/BadURL</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/TEST/BadURL/MapServer</serviceUrl>
     <emailAddress>bdraper@usgs.gov</emailAddress>
-  </entry>
+  </entry> -->
 	<!-- A -->
 	<!-- AIR_NDGA -->
   <entry>
