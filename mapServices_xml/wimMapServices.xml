@@ -624,35 +624,35 @@
     <id>SWTrends/lu1974_100515_test</id>
     <title>SWTrends/lu1974_100515_test</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1974_100515_test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1974_100515_test/ImageServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
     <id>SWTrends/lu1982_100515_test</id>
     <title>SWTrends/lu1982_100515_test</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1982_100515_test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1982_100515_test/ImageServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
     <id>SWTrends/lu1992_100515_test</id>
     <title>SWTrends/lu1992_100515_test</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1992_100515_test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu1992_100515_test/ImageServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
     <id>SWTrends/lu2002_100515_test</id>
     <title>SWTrends/lu2002_100515_test</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu2002_100515_test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu2002_100515_test/ImageServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <entry>
     <id>SWTrends/lu2012_100515_test</id>
     <title>SWTrends/lu2012_100515_test</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu2012_100515_test/MapServer</serviceUrl>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SWTrends/lu2012_100515_test/ImageServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <!-- T -->
