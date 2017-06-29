@@ -65,6 +65,14 @@
     <emailAddress>emyers@usgs.gov</emailAddress>
   </entry>
   <!-- C -->
+  <!-- CBRS Mapper (FWS) -->
+   <entry>
+   	<id>CBRAMapper/GeoCBRA</id>
+    <title>CBRAMapper/GeoCBRA</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>https://fwsprimary.wim.usgs.gov/server/rest/services/CBRAMapper/GeoCBRA/MapServer</serviceUrl>
+    <emailAddress>njestes@usgs.gov</emailAddress>
+   </entry>
   <!-- CDC_SVI-->
   <entry>
     <id>CDC_SVI/CDC_SVI</id>
