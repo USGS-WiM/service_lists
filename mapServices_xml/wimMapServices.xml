@@ -563,6 +563,20 @@
     <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowGreatLakes/SparrowGreatLakes/MapServer</serviceUrl>
     <emailAddress>emyers@usgs.gov</emailAddress>
    </entry>
+   <entry>
+    <id>SparrowGreatLakesV2</id>
+    <title>SparrowGreatLakesV2</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>http://gis.wim.usgs.gov/arcgis/rest/services/SparrowGreatLakesV2/SparrowGreatLakes/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
+   <entry>
+    <id>SparrowMARBV2</id>
+    <title>SparrowMARBV2</title>
+    <serviceType>agsmapserver</serviceType>
+    <serviceUrl>https://gis.wim.usgs.gov/arcgis/rest/services/SparrowMARBV2/SparrowMARB/MapServer</serviceUrl>
+    <emailAddress>emyers@usgs.gov</emailAddress>
+   </entry>
     <entry>
     <id>SparrowMississippi</id>
     <title>SparrowMississippi</title>
