@@ -1,0 +1,44 @@
+[
+  {
+    "name": "service_lists",
+    "organization": "U.S. Geological Survey",
+    "description": "Repository of WiM service lists, including map services XML/ATOM feed",
+    "version": "v0.0.0",
+    "status": "Production"
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain",
+          "URL": "https://github.com/usgs/best-practices/blob/master/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": null,
+    "downloadURL": "https://github.com/USGS-WiM/service_lists/archive/master.zip",
+    "disclaimerURL": "https://github.com/USGS-WiM/service_lists/blob/master/DISCLAIMER.md",
+    "repositoryUrl": "https://github.com/USGS-WiM/service_lists",
+    "vcs": "git",
+
+    "laborHours": null,
+
+    "tags": [
+      "service list"
+    ],
+
+    "languages": [
+      "Markdown"
+    ],
+
+    "contact": {
+      "name": "Blake Draper",
+      "email": "bdraper@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2018-02-16"
+    }
+  }
+]
