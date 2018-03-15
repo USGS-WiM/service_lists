@@ -73,6 +73,14 @@
     <serviceUrl>https://fwsprimary.wim.usgs.gov/server/rest/services/CBRAMapper/GeoCBRA/MapServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
+   <!-- CBRS Projects Mapper -->
+   <entry>
+   	<id>projectmapperlive/FeatureServer</id>
+    <title>projectmapperlive/FeatureServer</title>
+    <serviceType>agofeatureserver</serviceType> <!-- ago == ArcGIS Online -->
+    <serviceUrl>https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/projectmapperlive/FeatureServer</serviceUrl>
+    <emailAddress>lprivette@usgs.gov</emailAddress>
+   </entry>
   <!-- CDC_SVI-->
   <entry>
     <id>CDC_SVI/CDC_SVI</id>
