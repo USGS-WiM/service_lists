@@ -67,15 +67,15 @@
   <!-- C -->
   <!-- CBRS Mapper (FWS) -->
    <entry>
-   	<id>CBRAMapper/GeoCBRA</id>
-    <title>CBRAMapper/GeoCBRA</title>
+    <id>CoastalBarrierResourcesSystem/MapServer</id>
+    <title>CoastalBarrierResourcesSystem/MapServer</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://fwsprimary.wim.usgs.gov/server/rest/services/CBRAMapper/GeoCBRA/MapServer</serviceUrl>
+    <serviceUrl>https://cbrsgis.wim.usgs.gov/arcgis/rest/services/CoastalBarrierResourcesSystem/MapServer</serviceUrl>
     <emailAddress>njestes@usgs.gov</emailAddress>
    </entry>
    <!-- CBRS Projects Mapper -->
    <entry>
-   	<id>projectmapperlive/FeatureServer</id>
+    <id>projectmapperlive/FeatureServer</id>
     <title>projectmapperlive/FeatureServer</title>
     <serviceType>agofeatureserver</serviceType> <!-- ago == ArcGIS Online -->
     <serviceUrl>https://services1.arcgis.com/Hp6G80Pky0om7QvQ/ArcGIS/rest/services/projectmapperlive/FeatureServer</serviceUrl>
@@ -732,7 +732,7 @@
     <id>wetlands_projects_v2</id>
     <title>wetlands_projects_v2</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5a9476d6e4b069906068fc3b/MapServer</serviceUrl>
+    <serviceUrl>https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5bc0eb09e4b0fc368eb700f2/MapServer</serviceUrl>
     <emailAddress>kjacobsen@usgs.gov</emailAddress>
    </entry>
 </feed>
