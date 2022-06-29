@@ -1,63 +1,70 @@
- <feed xmlns="http://www.w3.org/2005/Atom"  xmlns:gos="http://www.geodata.gov/gos_atom">
- 	<title>StreamStats Map Services List</title>
-	<updated>2016-12-01</updated>
-  <!-- sample entry
-   <entry>
+<feed xmlns="http://www.w3.org/2005/Atom"  xmlns:gos="http://www.geodata.gov/gos_atom">
+  <title>StreamStats National Map Services List</title>
+	<updated>2022-06-24</updated>
+  <!-- Documentation: https://statuschecker.fgdc.gov/documentation -->
+  <!-- Sample entry
+  <entry>
     <id>{unique_id}</id>
     <title>{title}</title>
     <serviceType>agsmapserver</serviceType>
     <serviceUrl>{serviceURL}</serviceUrl>
     <emailAddress>@usgs.gov</emailAddress>
-   </entry>
-         -->
-  <!-- These list of SS map services has been separated from the main WiM map services list because something 
-  about their configuration causes them to fail the checker test regularly. They are being 'quarantined' to 
-  thier own list and own distinct checker feed so the main WiM feed is not constantly tainted with failed tests. -->
-   <!-- StreamStats State map services-->
-   <entry>
-    <id>StreamStats/stateServices</id>
-    <title>StreamStats/stateService</title>
+  </entry>
+  --> 
+  <!-- StreamStats National: WaterData NLDI flowlines -->
+  <entry>
+    <id>StreamStatsNational/NLDIFlowlines</id>
+    <title>StreamStatsNational/NLDIFlowlines</title>
+    <serviceType>wms</serviceType>
+    <serviceUrl>https://labs.waterdata.usgs.gov/geoserver/gwc/service/?service=WMS&request=GetCapabilities</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: Geology Map Service -->
+  <entry>
+    <id>StreamStatsNational/geology</id>
+    <title>StreamStatsNational/geology</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/StreamStats/stateServices/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
-     <!-- StreamStats National map services-->
-   <entry>
-    <id>StreamStats/nationalLayers</id>
-    <title>StreamStats/nationalLayers</title>
+    <serviceUrl>https://www.sciencebase.gov/arcgis/rest/services/Catalog/5888bf4fe4b05ccb964bab9d/MapServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: 2022 Wildland Fire Perimeter Map Service -->
+  <entry>
+    <id>StreamStatsNational/wildlandFires2022</id>
+    <title>StreamStatsNational/wildlandFires2022</title>
+    <serviceType>agsfeatureserver</serviceType>
+    <serviceUrl>https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/CY_WildlandFire_Perimeters_ToDate/FeatureServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: 2021 Wildland Fire Perimeter Map Service -->
+  <entry>
+    <id>StreamStatsNational/wildlandFires2021</id>
+    <title>StreamStatsNational/wildlandFires2021</title>
+    <serviceType>agsfeatureserver</serviceType>
+    <serviceUrl>https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Fire_History_Perimeters_Public/FeatureServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: 2019 Wildland Fire Perimeter Map Service -->
+  <entry>
+    <id>StreamStatsNational/wildlandFires2019</id>
+    <title>StreamStatsNational/wildlandFires2019</title>
+    <serviceType>agsfeatureserver</serviceType>
+    <serviceUrl>https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_GeoMAC_Perimeters_2019/FeatureServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: 2000-2018 Wildland Fire Perimeter Map Service -->
+  <entry>
+    <id>StreamStatsNational/wildlandFires20002018</id>
+    <title>StreamStatsNational/wildlandFires20002018</title>
+    <serviceType>agsfeatureserver</serviceType>
+    <serviceUrl>https://services3.arcgis.com/T4QMspbfLg3qTGWY/arcgis/rest/services/Historic_Geomac_Perimeters_Combined_2000_2018/FeatureServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
+  <!-- StreamStats National: MTBS Fire Boundaries -->
+  <entry>
+    <id>StreamStatsNational/MTBSFires</id>
+    <title>StreamStatsNational/MTBSFires</title>
     <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/StreamStats/nationalLayers/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
-   <!-- Coordinated Reaches -->
-   <entry>
-    <id>coordinatedreaches/in</id>
-    <title>coordinatedreaches/in</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/coordinatedreaches/in/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
-   <!-- NSS Regions -->
-   <entry>
-    <id>nss/regions</id>
-    <title>nss/regions</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/nss/regions/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
-   <!-- StreamStats Regulation-->
-   <entry>
-    <id>regulations/co</id>
-    <title>regulations/co</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/regulations/co/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
-   <entry>
-    <id>regulations/mt</id>
-    <title>regulations/mt</title>
-    <serviceType>agsmapserver</serviceType>
-    <serviceUrl>https://streamstats.usgs.gov/arcgis/rest/services/regulations/mt/MapServer</serviceUrl>
-    <emailAddress>marsmith@usgs.gov</emailAddress>
-   </entry>
+    <serviceUrl>https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_MTBS_01/MapServer</serviceUrl>
+    <emailAddress>amedenblik@usgs.gov</emailAddress>
+  </entry>
 </feed>
